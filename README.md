@@ -1,4 +1,6 @@
 # Mastering Bitcoin
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fbitcoinbook.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fbitcoinbook?ref=badge_shield)
+
 
 Mastering Bitcoin is a book for developers, but the first two chapters cover bitcoin at a level that is approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters and get a great understanding of bitcoin.
 
@@ -46,3 +48,7 @@ It is expected that the second edition will be released under a CC-BY-SA license
 
 If you are interested in translating this book, please join a team of volunteers at https://www.transifex.com/bitcoinbook/mastering-bitcoin/
 Free copies of "Mastering Bitcoin Open Edition", translated in many languages, can be downloaded from https://bitcoinbook.info
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fbitcoinbook.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fbitcoinbook?ref=badge_large)
